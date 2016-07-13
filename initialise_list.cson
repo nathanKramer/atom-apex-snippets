@@ -1,0 +1,4 @@
+'.source.apex':
+  'new list one line initialisation':
+    'prefix': 'listInit'
+    'body': 'new List<${1:object}> ${3:{ $2 \}}$4'

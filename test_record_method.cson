@@ -1,0 +1,4 @@
+'.source.apex':
+  'Create a test record method (for a TestObjectFactory)':
+    'prefix': 'trm'
+    'body': '/**\n * Retrieve test ${1:Contact} record\n * @param Boolean shouldInsert : if true, record will be inserted, otherwise you must insert it yourself\n */\npublic static $1 get$1(Boolean shouldInsert) {\n\t$1 ${2:record} = new $1();\n\tif (shouldInsert) insert $2;\n\n\treturn $2;\n}'

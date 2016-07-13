@@ -1,0 +1,4 @@
+'.source.apex':
+  'Add value to a list in a map':
+    'prefix': 'mapaddlist'
+    'body': 'if (!${1:theMap}.containsKey(${2:theKey})) {\n\t${1:theMap}.put(${2:theKey}, new List<${3:String}>());\n}\n${1:theMap}.get(${2:theKey}).add(${4:theValue});'

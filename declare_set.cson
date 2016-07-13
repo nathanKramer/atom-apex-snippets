@@ -1,0 +1,4 @@
+'.source.apex':
+  'Construct a new set':
+    'prefix': 'newS'
+    'body': 'Set<${1:SObject}> ${2:objects} = new Set<$1>();'

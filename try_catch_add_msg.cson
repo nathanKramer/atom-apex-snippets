@@ -1,0 +1,4 @@
+'.source.apex':
+  'try catch with addMsg':
+    'prefix': 'trymsg'
+    'body': 'try {\n\t$1\n} catch (Exception e) {\n\tApexPages.addMessages($2e);\n}'

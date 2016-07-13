@@ -1,0 +1,4 @@
+'.source.apex':
+  'Public List Object Property':
+    'prefix': 'pubos'
+    'body': 'public List<${1:object}> ${2:variable} { get; set; }'

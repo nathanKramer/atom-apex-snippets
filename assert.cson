@@ -1,0 +1,4 @@
+'.source.apex':
+  'Apex Assert':
+    'prefix': 'assert'
+    'body': 'System.assert(${1:expression}, ${2:explanation message});'

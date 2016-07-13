@@ -1,0 +1,4 @@
+'.source.apex':
+  'Get Parameter':
+    'prefix': 'Apg'
+    'body': 'ApexPages.currentPage().getParameters().get(\'${1:id}\')'

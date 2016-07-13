@@ -1,0 +1,4 @@
+'.source.apex':
+  'try catch':
+    'prefix': 'try'
+    'body': 'try {\n\t$1\n} catch(Exception e) {\n\t$0\n}'

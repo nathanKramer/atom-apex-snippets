@@ -1,0 +1,4 @@
+'.source.apex':
+  'SOQL query':
+    'prefix': 'query'
+    'body': 'List<${1:sObject}> ${2:query} = [SELECT Id FROM $1 WHERE $3 $4];'

@@ -1,0 +1,4 @@
+'.source.apex':
+  'allow_field_truncation':
+    'prefix': 'dmlO'
+    'body': 'Database.DMLOptions options = new Database.DMLOptions();\noptions.allowFieldTruncation = true;\n${1:rows}.setOptions(options);'

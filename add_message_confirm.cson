@@ -1,0 +1,4 @@
+'.source.apex':
+  'ApexPages Add CONFIRM':
+    'prefix': 'Amc'
+    'body': 'ApexPages.addMessage(new ApexPages.Message(ApexPages.Severity.CONFIRM, $1));'

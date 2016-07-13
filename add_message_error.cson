@@ -1,0 +1,4 @@
+'.source.apex':
+  'ApexPages Add ERROR':
+    'prefix': 'Ame'
+    'body': 'ApexPages.addMessage(new ApexPages.Message(ApexPages.Severity.ERROR, $1));'

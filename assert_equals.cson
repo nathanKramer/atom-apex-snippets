@@ -1,0 +1,4 @@
+'.source.apex':
+  'Apex Assert Equals':
+    'prefix': 'asserte'
+    'body': 'System.assertEquals(${1:expect}, ${2:actual}, ${3:explanation});'

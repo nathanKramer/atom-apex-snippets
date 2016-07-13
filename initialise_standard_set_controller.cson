@@ -1,0 +1,4 @@
+'.source.apex':
+  'Construct a StandardSetController':
+    'prefix': 'Apss'
+    'body': 'ApexPages.StandardSetController ${2:sc} = new ApexPages.StandardSetController( $1 );'

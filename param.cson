@@ -1,0 +1,4 @@
+'.source.apex meta.class.java meta.class.body.java comment.block.documentation.javadoc':
+  'param':
+    'prefix': '@p'
+    'body': '* @param ${1:paramName} : ${2:param explanation}'

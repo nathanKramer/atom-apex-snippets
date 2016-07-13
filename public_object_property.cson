@@ -1,0 +1,4 @@
+'.source.apex':
+  'Public Object Property':
+    'prefix': 'pubo'
+    'body': 'public ${1:object} ${2:variable} { get; set; }'

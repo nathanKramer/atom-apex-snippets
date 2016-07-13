@@ -1,0 +1,4 @@
+'.source.apex':
+  'new set one line initialisation':
+    'prefix': 'setInit'
+    'body': 'new Set<${1:object}> ${3:{ $2 \}}$4'

@@ -1,0 +1,4 @@
+'.source.apex':
+  'Apex Debug':
+    'prefix': 'debug'
+    'body': 'System.debug(\'[${TM_FILENAME}]:  ${1:}\'$2);'

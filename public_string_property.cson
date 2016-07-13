@@ -1,0 +1,4 @@
+'.source.apex':
+  'Public String Property':
+    'prefix': 'pubs'
+    'body': 'public String ${1:id} { get; set; }'

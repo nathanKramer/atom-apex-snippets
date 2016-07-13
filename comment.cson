@@ -1,0 +1,4 @@
+'.source.apex':
+  'Documentation Comment':
+    'prefix': '/*'
+    'body': '/**\n * ${1:purpose}\n * @author ${2:$TM_FULLNAME}\n * @param ${3:paramName} : ${4:param explanation}\n * @return ${5:}\n */'
