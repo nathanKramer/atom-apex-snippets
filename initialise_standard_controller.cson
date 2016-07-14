@@ -1,4 +1,4 @@
 '.source.apex':
   'Construct a StandardController':
     'prefix': 'Aps'
-    'body': 'ApexPages.StandardController ${2:sc} = new ApexPages.StandardController(${1:sObjectHere});'
+    'body': 'ApexPages.StandardController ${2:sc} = new ApexPages.StandardController(${1:sObjectHere});$3'

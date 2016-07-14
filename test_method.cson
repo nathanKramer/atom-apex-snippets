@@ -1,4 +1,4 @@
 '.source.apex':
   'Test Method':
     'prefix': 'test'
-    'body': '/**\n * Scenario: ${1:TheScenario}\n * Expected Outcome: ${2:ExpectedOutcome}\n */\n@isTest static void ${3:methodName}() {\n\t${4:// the code}\n}'
+    'body': '/**\n * Scenario: ${1:TheScenario}\n * Expected Outcome: ${2:ExpectedOutcome}\n */\n@isTest static void ${3:methodName}() {\n\t${4:// the code}\n}$5'

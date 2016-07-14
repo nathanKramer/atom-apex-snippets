@@ -1,4 +1,4 @@
 '.source.apex':
   'Large SOQL query':
     'prefix': 'querybig'
-    'body': 'List<${1:sObject}> ${2:query} = [\n\tSELECT\n\t\tId$4\n\tFROM $1\n\tWHERE $3\n];'
+    'body': 'List<${1:sObject}> ${2:query} = [\n\tSELECT\n\t\tId$4\n\tFROM $1\n\tWHERE $3\n];$5'

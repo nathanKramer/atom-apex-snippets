@@ -1,4 +1,4 @@
 '.source.apex':
-  'ApexPages Add FATAL':
+  'Add a FATAL Apex Page Message':
     'prefix': 'Amf'
     'body': 'ApexPages.addMessage(new ApexPages.Message(ApexPages.Severity.FATAL, $1));'

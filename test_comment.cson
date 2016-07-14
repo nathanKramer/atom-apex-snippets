@@ -1,4 +1,4 @@
 '.source.apex':
   'Test Method':
     'prefix': '/*t'
-    'body': '/**\n * Scenario: ${1:TheScenario}\n * Expected Outcome: ${2:ExpectedOutcome}\n */'
+    'body': '/**\n * Scenario: ${1:TheScenario}\n * Expected Outcome: ${2:ExpectedOutcome}\n */$3'

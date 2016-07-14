@@ -1,4 +1,8 @@
 '.source.apex':
   'else if':
     'prefix': 'elif'
-    'body': 'else if($1) {\n\t${2://code}\n}'
+    'body': '''
+    else if($1) {
+    	${2://code}
+    }'
+    '''

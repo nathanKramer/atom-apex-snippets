@@ -1,4 +1,4 @@
 '.source.apex':
   'else':
     'prefix': 'el'
-    'body': 'else {\n\t$1\n}'
+    'body': 'else {\n\t$1\n}$2'

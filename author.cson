@@ -1,4 +1,4 @@
-'.source.apex comment.block.documentation.javadoc':
+'.source.apex comment.block.apex':
   'author':
     'prefix': '@a'
     'body': '* @author ${1:$TM_FULLNAME}'

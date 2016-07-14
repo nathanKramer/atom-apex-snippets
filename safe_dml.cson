@@ -1,4 +1,4 @@
 '.source.apex':
   'safe_dml':
     'prefix': 'tcd'
-    'body': 'Savepoint rollbackPoint = Database.setSavepoint();\ntry {\n\t${1:insert} ${2:rows};\n}\ncatch (${3:DmlException} e) {\n\tDatabase.rollback(rollbackPoint);$4\n}'
+    'body': 'Savepoint rollbackPoint = Database.setSavepoint();\ntry {\n\t${1:insert} ${2:rows};\n}\ncatch (${3:DmlException} e) {\n\tDatabase.rollback(rollbackPoint);$4\n}$5'

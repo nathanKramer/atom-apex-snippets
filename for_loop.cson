@@ -1,4 +1,4 @@
 '.source.apex':
   'for (each) apex':
     'prefix': 'foreach'
-    'body': 'for ($1 : $2) {\n\t$0\n}'
+    'body': 'for ($1 : $2) {\n\t$0\n}$3'

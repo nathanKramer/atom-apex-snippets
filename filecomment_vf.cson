@@ -1,4 +1,12 @@
 '.text.html.basic':
   'filecomment_vf':
     'prefix': '/*f'
-    'body': '<!--\n/**\n * ${1:$TM_FILENAME}\n * Description: $2\n * @author: ${3:$TM_FULLNAME}\n * @date: ${4:}\n */\n-->'
+    'body': '''<!--
+    /**
+     * ${1:$TM_FILENAME}
+     * Description: $2
+     * @author: ${3:$TM_FULLNAME}
+     * @date: ${4:}
+     */
+    -->
+    '''

@@ -1,4 +1,4 @@
 '.source.apex':
-  'ApexPages Add WARNING':
+  'Add a WARNING Apex Page Message':
     'prefix': 'Amw'
     'body': 'ApexPages.addMessage(new ApexPages.Message(ApexPages.Severity.WARNING, $1));'

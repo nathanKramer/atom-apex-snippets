@@ -1,4 +1,4 @@
 '.source.apex':
   'if':
     'prefix': 'if'
-    'body': 'if ($1) {\n\t$2\n}'
+    'body': 'if ($1) {\n\t$2\n}$3'

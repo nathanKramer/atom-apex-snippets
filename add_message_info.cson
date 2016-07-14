@@ -1,4 +1,4 @@
 '.source.apex':
-  'ApexPages Add INFO':
+  'Add an INFO Apex Page Message':
     'prefix': 'Ami'
     'body': 'ApexPages.addMessage(new ApexPages.Message(ApexPages.Severity.INFO, $1));'
