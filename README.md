@@ -1,6 +1,6 @@
 # Apex Snippets
 
-[<img src="https://raw.githubusercontent.com/stvhwrd/icons/master/atom/Atom-no_shadows-512.png" width="48">](https://github.com/nathanKramer/atom-apex-snippets) [<img src="https://www.sublimetext.com/images/logo.svg" width="48">](https://github.com/nathanKramer/apex-snippets)
+[<img src="https://raw.githubusercontent.com/stvhwrd/icons/master/atom/Atom-no_shadows-512.png" width="48">](https://github.com/nathanKramer/atom-apex-snippets) [<img src="https://pbs.twimg.com/media/C9LqjoBXYAE-P6k.png" width="48">](https://github.com/nathanKramer/apex-snippets)
 
 This is the _Atom_ version
 ===========================
